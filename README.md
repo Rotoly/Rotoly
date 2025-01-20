@@ -1,34 +1,43 @@
-## Hi there 👋
+Hi, I'm Rotimi! 👋 
+========================================================================================================================================
 
-<!--
-**Rotoly/Rotoly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+--------------
 
-Here are some ideas to get you started:
+I am a Data Scientist | Data Analyst | Financial Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise spans Data Analytics, Data Science, and Financial Analytics.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rotimi-akinrinde-/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ @akinrinderotimi) 
+I help businesses make data-driven decisions to achieve better results.
 
-# 💻 Tech Stack:
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rotoly&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rotoly&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rotoly&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🔗 Links
+--------------
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rotoly&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![image](https://github.com/user-attachments/assets/88af0832-9190-4cc4-afa9-74b118c4d81d/)](https://rotoly.github.io/dataprojects.github.io/)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rotoly&icon=0&color=0)](https://visitcount.itsvg.in)
+Explore my portfolio for detailed insights into my projects and skills.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+more about me
+--------------
+
+👩‍💻 I currently use Python, Excel, Power BI, Tableau, SQL, R and big data tools.
+
+🧑‍💻 I am available for Data Scientist/Analyst and Financial analyst roles. Kindly reach out to me via Linkedin, medium, and email
+
+🤝 I'm open to collaborations
+
+💬 Ask me about Data Analytics, Data Science, Financial Analytics and Business Intelligence.
+
+📧 You can reach me:
+
+Email: akinrinderotimi@gmail.com
+
+[![image](https://github.com/user-attachments/assets/88af0832-9190-4cc4-afa9-74b118c4d81d/)](https://rotoly.github.io/dataprojects.github.io/)
+
+🛠️ Skills
+--------------
+Python | Excel | SQL | Power BI | R | Tableau  
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/https:/Rotoly" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in//rotimi-akinrinde-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@akinrinderotimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
