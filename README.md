@@ -30,7 +30,7 @@ more about me
 
 📧 You can reach me:
 
-Email: akinrinderotimi@gmail.com
+[![image](https://github.com/user-attachments/assets/26ca871c-3086-4018-b438-ecba99082292)](akinrinderotimi@gmail.com)
 
 [![image](https://github.com/user-attachments/assets/88af0832-9190-4cc4-afa9-74b118c4d81d/)](https://rotimiakinrinde.github.io/dataprojects.github.io/)
 
